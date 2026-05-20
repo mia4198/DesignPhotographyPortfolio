@@ -3,6 +3,6 @@ base: "/images/works/6d-k"
 ---
 **website: https://6d-k.com/**
 
-木住野彰悟
+甘南夏河
 
-Kishino Shogo
+拉不楞寺 藏传佛教

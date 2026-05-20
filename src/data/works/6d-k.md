@@ -6,5 +6,3 @@ base: "/images/works/6d-k"
 甘南夏河
 
 拉不楞寺 藏传佛教
-
-cover: '/images/works/6d-k/1.webp'
